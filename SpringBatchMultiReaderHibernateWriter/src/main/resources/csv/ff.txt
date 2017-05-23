@@ -1,0 +1,3 @@
+shiva kota                    cold           101010              pulse rate               true      22 yes    no     10/10/2017    001212         $1700    male     take hot food            coughing            outpatient      surgeon
+rohan                         fracture       102120              x ray                    true      21 yes    yes    07/05/2016    222010         $2599    male     no running               severe pain         inhouse         surgeon
+chaitanya                     cancer         201202              chemo                    true      46 yes    yes    15/12/2016    659896         $12670   female   nothing                  blood vomiting      inhouse         surgeon
